@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohukeibo.github.io/RVh/sitemap_index.txt
+Sitemap: https://ohukeibo.github.io/bmK/sitemap_index.txt
+Sitemap: https://ohukeibo.github.io/kLZ/sitemap_index.txt
+Sitemap: https://ohukeibo.github.io/uCL/sitemap_index.txt
